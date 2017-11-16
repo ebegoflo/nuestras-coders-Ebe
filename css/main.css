@@ -1,0 +1,31 @@
+h6 {
+  font-family: 'Nixie One', cursive;
+  font-size: 100%;
+  margin: 0 auto;
+}
+
+hr {
+
+  background-color: gray;
+  height: 1px;
+  margin-left: 0%;
+  margin-right: 95%;
+  margin-top: 1%;
+  margin-bottom: 0%;
+
+}
+
+section {
+  float: left;
+  margin: 1% 5% 5% 5%;
+
+}
+
+section > p {
+  font-family: 'Nixie One', cursive;
+  position: relative;
+  bottom: 46px;
+  left: 30%;
+  color: white;
+
+}
